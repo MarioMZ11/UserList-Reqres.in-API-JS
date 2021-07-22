@@ -1,10 +1,10 @@
 # User List with reqres.in
 
 I request the users from reqres.in API and show the data into a HTML table.
-I used HTML-CSS-Bootstrap-JS with fetch and Asycn/await.
+I used HTML-CSS-Bootstrap-Webpack-JS with fetch and Asycn/await.
 
 Take a look at: 
-
+https://mariomz11.github.io/UserList-Reqres.in-API-JS/
 
 
 ## Notes - Reminder:
