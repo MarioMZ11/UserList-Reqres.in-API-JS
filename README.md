@@ -5,6 +5,9 @@ This is a little demo of the famuos Pokedex build with HTML - CSS - JS using web
 Just press the Pokemon Button for request a random Pokemon.
 I use fetch API for make the http requets to the Pokemon API.
 
+Take a look at: 
+https://mariomz11.github.io/Pokedex-Lite-JS/
+
 Enjoy!
 
 ## Notes - Reminder:
