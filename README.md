@@ -1,14 +1,11 @@
-# Pokedex Lite
+# User List with reqres.in
 
-This is a little demo of the famuos Pokedex build with HTML - CSS - JS using webpack.
-
-Just press the Pokemon Button for request a random Pokemon.
-I use fetch API for make the http requets to the Pokemon API.
+I request the users from reqres.in API and show the data into a HTML table.
+I used HTML-CSS-Bootstrap-JS with fetch and Asycn/await.
 
 Take a look at: 
-https://mariomz11.github.io/Pokedex-Lite-JS/
 
-Enjoy!
+
 
 ## Notes - Reminder:
 
