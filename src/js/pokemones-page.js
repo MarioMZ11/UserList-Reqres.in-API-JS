@@ -1,5 +1,5 @@
-import { obtenerPokemon, id } from "./http-provider";
-
+import { obtenerPokemon} from "./http-provider";
+import regeneratorRuntime from "regenerator-runtime";
 const body = document.body;
 
 let btnPokemon;

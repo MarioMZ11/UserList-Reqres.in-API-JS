@@ -1,7 +1,6 @@
 
-    console.log('Hola a todos');
+import regeneratorRuntime from "regenerator-runtime";
 
-    
 // // fetch(URL_API).then( resp => {
     
 // //     resp.json().then(data => {
